@@ -10,5 +10,4 @@ Usage: bash Preinstall.sh
 
 2. OtherInstall.sh
 This file let you install all required software for trimming and assembly
-
 Usage: bash OtherInstall.sh 
